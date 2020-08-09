@@ -6,7 +6,7 @@ This repo will be mainly used for the capstone project for IBM Applied Data Scie
 
 Full Report: https://github.com/Aniruddh-Mallya/Coursera_Capstone/blob/master/Final_Report.pdf
 
-Presentation Slides:
+Presentation Slides: https://github.com/Aniruddh-Mallya/Coursera_Capstone/blob/master/Final%20Presentation.pdf
 
 Jupyter Notebook:
 
