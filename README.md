@@ -8,5 +8,5 @@ Full Report: https://github.com/Aniruddh-Mallya/Coursera_Capstone/blob/master/Fi
 
 Presentation Slides: https://github.com/Aniruddh-Mallya/Coursera_Capstone/blob/master/Final%20Presentation.pdf
 
-Jupyter Notebook:
+Jupyter Notebook: https://github.com/Aniruddh-Mallya/Coursera_Capstone/blob/master/LosAngeles_Final.ipynb
 
